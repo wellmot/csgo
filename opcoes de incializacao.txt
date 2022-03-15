@@ -1,0 +1,1 @@
+-high -novid -nojoy -nod3d9ex -nocrashdialog -limitvsconst -forcenovsync -threads 8 -w 1280 -h 960 -refresh 120 -freq 120 -full -tickrate 128 -cl_updaterate 128 -cl_cmdrate 128 -rate 128000 +exec wellmota.cfg
